@@ -7,7 +7,7 @@
 >>>
 >>> Até o Ajax e APIs
 
-## No momento essa atividade está 40% completada
+## No momento essa atividade está 77% completada
 
 > Eu levo meu tempo para praticar e estudar o assunto
 >> Logo, isso levará um tempinho para ser feito
